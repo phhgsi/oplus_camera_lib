@@ -88,7 +88,6 @@ PRODUCT_COPY_FILES += \
     vendor/oplus/lib/proprietary/odm/lib64/libarcsoft_scbokeh_image.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_scbokeh_image.so \
     vendor/oplus/lib/proprietary/odm/lib64/libarcsoft_scbokeh_video.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_scbokeh_video.so \
     vendor/oplus/lib/proprietary/odm/lib64/libarcsoft_smart_denoise.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_smart_denoise.so \
-    vendor/oplus/lib/proprietary/odm/lib64/libarcsoft_super_night_raw.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_super_night_raw.so \
     vendor/oplus/lib/proprietary/odm/lib64/libbsproxy.so:$(TARGET_COPY_OUT_ODM)/lib64/libbsproxy.so \
     vendor/oplus/lib/proprietary/odm/lib64/libc++_shared.so:$(TARGET_COPY_OUT_ODM)/lib64/libc++_shared.so \
     vendor/oplus/lib/proprietary/odm/lib64/libcalculator.so:$(TARGET_COPY_OUT_ODM)/lib64/libcalculator.so \
